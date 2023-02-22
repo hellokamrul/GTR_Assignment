@@ -10793,11 +10793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.Net Core\\GTR_Assign\\GTR_Assign\\GTR_Assign.csproj",
+      "projectUniqueName": "D:\\ASP.Net Core\\New folder (2)\\GTR_Assign\\GTR_Assign\\GTR_Assign.csproj",
       "projectName": "GTR_Assign",
-      "projectPath": "D:\\ASP.Net Core\\GTR_Assign\\GTR_Assign\\GTR_Assign.csproj",
+      "projectPath": "D:\\ASP.Net Core\\New folder (2)\\GTR_Assign\\GTR_Assign\\GTR_Assign.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.Net Core\\GTR_Assign\\GTR_Assign\\obj\\",
+      "outputPath": "D:\\ASP.Net Core\\New folder (2)\\GTR_Assign\\GTR_Assign\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

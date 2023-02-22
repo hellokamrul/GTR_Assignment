@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edqp36AOtZjjZk1gl0S63BZlt/xQj2mymfggCS4xd2QggQ7wGzRZONbWdsoZ7q4OeafQM8fxIJvdk5nqTgrXAg==",
+  "dgSpecHash": "OnXEb0mn+ZMg+/9nZAm30hdfvUED3pqqFI95C99M79BH6GT91iUlQwYxTed8FgWXVTULcxXA4aWNUC5C4lv5og==",
   "success": true,
-  "projectFilePath": "D:\\ASP.Net Core\\GTR_Assign\\GTR_Assign\\GTR_Assign.csproj",
+  "projectFilePath": "D:\\ASP.Net Core\\New folder (2)\\GTR_Assign\\GTR_Assign\\GTR_Assign.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

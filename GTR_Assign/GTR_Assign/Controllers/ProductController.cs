@@ -12,7 +12,7 @@ namespace GTR_Assign.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
-    [Authorize]
+  
     public class ProductController : ControllerBase
     {
         //EshopDbContext _bdContext;
